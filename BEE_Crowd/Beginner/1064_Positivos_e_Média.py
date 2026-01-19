@@ -1,6 +1,6 @@
-# # Problema: 1064 - Positivos e Média
-# # Link: https://judge.beecrowd.com/pt/problems/view/1064
-# # Categoria: Beginner
+#  Problema: 1064 - Positivos e Média
+#  Link: https://judge.beecrowd.com/pt/problems/view/1064
+#  Categoria: Beginner
 
 entradas = []
 valores = 0
